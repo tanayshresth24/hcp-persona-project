@@ -1,0 +1,5 @@
+HCP_ID,Date,Record_Type,Planned_Calls,Actual_Calls,Call_Purpose,Quarter
+1001,2023-01-01,Planned,12.0,,Detailing,2023-Q1
+1001,2023-01-08,Actual,,1.0,Follow-Up,2023-Q1
+1002,2023-01-01,Planned,8.0,,Detailing,2023-Q1
+1002,2023-01-10,Actual,,2.0,Follow-Up,2023-Q1
