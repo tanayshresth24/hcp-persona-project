@@ -1,0 +1,29 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Databricks notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore local environment folders
+.env/
+venv/
+.venv/
+
+# Ignore data directories (prevent pushing large CSVs)
+data/
+sample_data/
+*.csv
+
+# Ignore Databricks export metadata
+*.dbc
+
+# Ignore parquet outputs
+*.parquet
+*.snappy.parquet
+
+# Ignore personal files
+*.log
